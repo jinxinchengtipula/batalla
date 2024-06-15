@@ -1,0 +1,153 @@
+
+/*formulario de login */
+.inputLogin {
+    width: 300px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    text-align: center;
+    margin: auto;
+    margin-top: 50px; 
+}
+
+.input {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.input input {
+    width: calc(100% - 30px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.input button {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.input button:hover {
+    background-color: #0056b3;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.trainers-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.trainer {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.trainer h2 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+.trainer-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 10px auto;
+    object-fit: cover;
+    object-position: top; 
+}
+
+.ver-pokemons {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.ver-pokemons:hover {
+    background-color: #0056b3;
+}
+
+.pokemons {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.pokemon {
+    display: inline-block;
+    width: 80px;
+    margin: 5px;
+}
+
+.pokemon img {
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.name {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+/* Estilos para los contenedores de entrenadores seleccionados y botón Comenzar Batalla */
+
+.batalla-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.seleccionados-container {
+    margin-bottom: 10px;
+}
+
+.seleccionados-container h3 {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.seleccionados-container ul {
+    padding-left: 20px;
+}
+
+.seleccionados-container ul li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+

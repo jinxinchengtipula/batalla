@@ -1,0 +1,436 @@
+[
+  {
+      "entrenador": "Gary Owh",
+      "foto_entrenador": "imagen/gary.png",
+      "pokemons": [
+          {
+              "nombre": "Venusaur",
+              "tipo": "planta",
+              "foto": "imagen/venusaur.png"
+          },
+          {
+              "nombre": "Eevee",
+              "tipo": "normal",
+              "foto": "imagen/eevee.jpg"
+          },
+          {
+              "nombre": "Blastoise",
+              "tipo": "agua",
+              "foto": "imagen/blastoise.png"
+          },
+          {
+              "nombre": "Arcanine",
+              "tipo": "fuego",
+              "foto": "imagen/arcanine.png"
+          },
+          {
+              "nombre": "Gyarados",
+              "tipo": "agua",
+              "foto": "imagen/gyarados.jpg"
+          }
+      ]
+  },
+  {
+      "entrenador": "Ash Quetchu",
+      "foto_entrenador": "imagen/ash.png",
+      "pokemons": [
+          {
+              "nombre": "Charizard",
+              "tipo": "fuego",
+              "foto": "imagen/charizard.png"
+          },
+          {
+              "nombre": "Pikachu",
+              "tipo": "electrico",
+              "foto": "imagen/pikachu.jpg"
+          },
+          {
+              "nombre": "Bulbasaur",
+              "tipo": "planta",
+              "foto": "imagen/bulbasaur.png"
+          },
+          {
+              "nombre": "Squirtle",
+              "tipo": "agua",
+              "foto": "imagen/quirtle.png"
+          },
+          {
+              "nombre": "Snorlax",
+              "tipo": "normal",
+              "foto": "imagen/norlax.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Misty Waterflower",
+      "foto_entrenador": "imagen/misty.png",
+      "pokemons": [
+          {
+              "nombre": "Starmie",
+              "tipo": "agua",
+              "foto": "imagen/starmie.png"
+          },
+          {
+              "nombre": "Psyduck",
+              "tipo": "agua",
+              "foto": "imagen/psyduck.png"
+          },
+          {
+              "nombre": "Goldeen",
+              "tipo": "agua",
+              "foto": "imagen/goldeen.png"
+          },
+          {
+              "nombre": "Horsea",
+              "tipo": "agua",
+              "foto": "imagen/horsea.png"
+          },
+          {
+              "nombre": "Seaking",
+              "tipo": "agua",
+              "foto": "imagen/eaking.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Brock Rock",
+      "foto_entrenador": "imagen/brock.png",
+      "pokemons": [
+          {
+              "nombre": "Onix",
+              "tipo": "roca",
+              "foto": "imagen/Oni.png"
+          },
+          {
+              "nombre": "Geodude",
+              "tipo": "roca",
+              "foto": "imagen/Geodude.png"
+          },
+          {
+              "nombre": "Vulpix",
+              "tipo": "fuego",
+              "foto": "imagen/vulpix.png"
+          },
+          {
+              "nombre": "Kabutops",
+              "tipo": "roca",
+              "foto": "imagen/kabutops.png"
+          },
+          {
+              "nombre": "Omastar",
+              "tipo": "roca",
+              "foto": "imagen/omastar.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Erika Green",
+      "foto_entrenador": "imagen/erika.png",
+      "pokemons": [
+          {
+              "nombre": "Tangela",
+              "tipo": "planta",
+              "foto": "imagen/tangela.png"
+          },
+          {
+              "nombre": "Vileplume",
+              "tipo": "planta",
+              "foto": "imagen/vileplume.png"
+          },
+          {
+              "nombre": "Victreebel",
+              "tipo": "planta",
+              "foto": "imagen/victreebel.png"
+          },
+          {
+              "nombre": "Parasect",
+              "tipo": "planta",
+              "foto": "imagen/parasect.png"
+          },
+          {
+              "nombre": "Exeggutor",
+              "tipo": "planta",
+              "foto": "imagen/exeggutor.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Lt. Surge",
+      "foto_entrenador": "imagen/t_surge.png",
+      "pokemons": [
+          {
+              "nombre": "Raichu",
+              "tipo": "electrico",
+              "foto": "imagen/raichu.png"
+          },
+          {
+              "nombre": "Electabuzz",
+              "tipo": "electrico",
+              "foto": "imagen/electabuzz.png"
+          },
+          {
+              "nombre": "Magneton",
+              "tipo": "electrico",
+              "foto": "imagen/magneton.png"
+          },
+          {
+              "nombre": "Jolteon",
+              "tipo": "electrico",
+              "foto": "imagen/jolteon.png"
+          },
+          {
+              "nombre": "Voltorb",
+              "tipo": "electrico",
+              "foto": "imagen/voltorb.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Sabrina Psy",
+      "foto_entrenador": "imagen/sabrina.png",
+      "pokemons": [
+          {
+              "nombre": "Alakazam",
+              "tipo": "psiquico",
+              "foto": "imagen/alakazam.png"
+          },
+          {
+              "nombre": "Mr. Mime",
+              "tipo": "psiquico",
+              "foto": "imagen/mr_mime.png"
+          },
+          {
+              "nombre": "Hypno",
+              "tipo": "psiquico",
+              "foto": "imagen/hypno.png"
+          },
+          {
+              "nombre": "Jynx",
+              "tipo": "psiquico",
+              "foto": "imagen/jynx.png"
+          },
+          {
+              "nombre": "Slowbro",
+              "tipo": "psiquico",
+              "foto": "imagen/slowbro.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Koga Ninja",
+      "foto_entrenador": "imagen/koga.png",
+      "pokemons": [
+          {
+              "nombre": "Weezing",
+              "tipo": "veneno",
+              "foto": "imagen/weezing.png"
+          },
+          {
+              "nombre": "Muk",
+              "tipo": "veneno",
+              "foto": "imagen/muk.png"
+          },
+          {
+              "nombre": "Venomoth",
+              "tipo": "veneno",
+              "foto": "imagen/venomoth.png"
+          },
+          {
+              "nombre": "Golbat",
+              "tipo": "veneno",
+              "foto": "imagen/golbat.png"
+          },
+          {
+              "nombre": "Arbok",
+              "tipo": "veneno",
+              "foto": "imagen/arbok.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Blaine Fire",
+      "foto_entrenador": "imagen/blaine.png",
+      "pokemons": [
+          {
+              "nombre": "Magmar",
+              "tipo": "fuego",
+              "foto": "imagen/magmar.png"
+          },
+          {
+              "nombre": "Rapidash",
+              "tipo": "fuego",
+              "foto": "imagen/rapidash.png"
+          },
+          {
+              "nombre": "Flareon",
+              "tipo": "fuego",
+              "foto": "imagen/flareon.png"
+          },
+          {
+              "nombre": "Ninetales",
+              "tipo": "fuego",
+              "foto": "imagen/ninetale.png"
+          },
+          {
+              "nombre": "Arcanine",
+              "tipo": "fuego",
+              "foto": "imagen/arcanine1.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Giovanni Earth",
+      "foto_entrenador": "imagen/giovanni.png",
+      "pokemons": [
+          {
+              "nombre": "Nidoking",
+              "tipo": "tierra",
+              "foto": "imagen/nidoking.png"
+          },
+          {
+              "nombre": "Nidoqueen",
+              "tipo": "tierra",
+              "foto": "imagen/nidoqueen.png"
+          },
+          {
+              "nombre": "Dugtrio",
+              "tipo": "tierra",
+              "foto": "imagen/dugtrio.png"
+          },
+          {
+              "nombre": "Rhydon",
+              "tipo": "tierra",
+              "foto": "imagen/rhydon.png"
+          },
+          {
+              "nombre": "Golem",
+              "tipo": "tierra",
+              "foto": "imagen/golem.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Lorelei Ice",
+      "foto_entrenador": "imagen/lorelei.png",
+      "pokemons": [
+          {
+              "nombre": "Lapras",
+              "tipo": "agua",
+              "foto": "imagen/lapras.png"
+          },
+          {
+              "nombre": "Cloyster",
+              "tipo": "agua",
+              "foto": "imagen/cloyster.png"
+          },
+          {
+              "nombre": "Dewgong",
+              "tipo": "agua",
+              "foto": "imagen/dewgong.png"
+          },
+          {
+              "nombre": "Slowbro",
+              "tipo": "agua",
+              "foto": "imagen/slowbro1.png"
+          },
+          {
+              "nombre": "Jynx",
+              "tipo": "hielo",
+              "foto": "imagen/jynx.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Bruno Fighting",
+      "foto_entrenador": "imagen/bruno.png",
+      "pokemons": [
+          {
+              "nombre": "Machamp",
+              "tipo": "lucha",
+              "foto": "imagen/machamp.png"
+          },
+          {
+              "nombre": "Hitmonlee",
+              "tipo": "lucha",
+              "foto": "imagen/hitmonlee.png"
+          },
+          {
+              "nombre": "Hitmonchan",
+              "tipo": "lucha",
+              "foto": "imagen/hitmonchan.png"
+          },
+          {
+              "nombre": "Onix",
+              "tipo": "roca",
+              "foto": "imagen/Oni.png"
+          },
+          {
+              "nombre": "Primeape",
+              "tipo": "lucha",
+              "foto": "imagen/primeape.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Agatha Ghost",
+      "foto_entrenador": "imagen/agatha.png",
+      "pokemons": [
+          {
+              "nombre": "Gengar",
+              "tipo": "fantasma",
+              "foto": "imagen/gengar.png"
+          },
+          {
+              "nombre": "Haunter",
+              "tipo": "fantasma",
+              "foto": "imagen/haunter.png"
+          },
+          {
+              "nombre": "Arbok",
+              "tipo": "veneno",
+              "foto": "imagen/arbok.png"
+          },
+          {
+              "nombre": "Golbat",
+              "tipo": "veneno",
+              "foto": "imagen/golbat.png"
+          },
+          {
+              "nombre": "Weezing",
+              "tipo": "veneno",
+              "foto": "imagen/weezing.png"
+          }
+      ]
+  },
+  {
+      "entrenador": "Lance Dragon",
+      "foto_entrenador": "imagen/lance.png",
+      "pokemons": [
+          {
+              "nombre": "Dragonite",
+              "tipo": "dragon",
+              "foto": "imagen/dragonite.png"
+          },
+          {
+              "nombre": "Gyarados",
+              "tipo": "agua",
+              "foto": "imagen/gyarados.jpg"
+          },
+          {
+              "nombre": "Aerodactyl",
+              "tipo": "roca",
+              "foto": "imagen/aerodactyl.png"
+          },
+          {
+              "nombre": "Charizard",
+              "tipo": "fuego",
+              "foto": "imagen/charizard.png"
+          },
+          {
+              "nombre": "Kingdra",
+              "tipo": "agua",
+              "foto": "imagen/kingdra.png"
+          }
+      ]
+  }
+]
